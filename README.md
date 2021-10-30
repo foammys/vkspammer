@@ -10,7 +10,6 @@
 #### Конфиг (что можно менять):
 
 ```
-# -*- coding: utf-8 -*-
 vk_session = vk_api.VkApi(token="") # Сюда токен от страницы, получить можно на vkhost.github.io
 messg = "random msg" # Сюда сообщение, которым спамить
 print(f"User {usr} closed private messages") # Здесь можно настроить кастом сообщение о закрытом ЛС
